@@ -1,4 +1,4 @@
-importScripts('/js/utils-sw.js');
+importScripts('/ejemplo10/js/utils-sw.js');
 
 const C_STATIC = 'estatico-1';
 const C_DINAMICO = 'dinamico-1';
