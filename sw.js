@@ -5,7 +5,7 @@ const C_DINAMICO = 'dinamico-1';
 const C_INMUTABLE = 'inmutable-1';
 
 const APP_SHELL=[
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
